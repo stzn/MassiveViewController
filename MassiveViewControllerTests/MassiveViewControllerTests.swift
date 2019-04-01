@@ -2,7 +2,7 @@
 //  MassiveViewControllerTests.swift
 //  MassiveViewControllerTests
 //
-//  Created by Shinzan Takata on 2019/03/23.
+//  Created by shiz on 2019/03/23.
 //  Copyright © 2019 shiz. All rights reserved.
 //
 

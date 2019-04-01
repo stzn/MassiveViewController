@@ -1,0 +1,52 @@
+[
+    {
+        "id" : "1",
+        "name" : "User1",
+        "type" : 1
+    },
+    {
+        "id" : "2",
+        "name" : "User2",
+        "type" : 2
+    },
+    {
+        "id" : "3",
+        "name" : "User3",
+        "type" : 1
+    },
+    {
+        "id" : "4",
+        "name" : "User4",
+        "type" : 2
+    },
+    {
+        "id" : "5",
+        "name" : "User5",
+        "type" : 1
+    },
+    {
+        "id" : "6",
+        "name" : "User6",
+        "type" : 2
+    },
+    {
+        "id" : "7",
+        "name" : "User7",
+        "type" : 1
+    },
+    {
+        "id" : "8",
+        "name" : "User8",
+        "type" : 2
+    },
+    {
+        "id" : "9",
+        "name" : "User9",
+        "type" : 1
+    },
+    {
+        "id" : "10",
+        "name" : "User10",
+        "type" : 2
+    }
+]
