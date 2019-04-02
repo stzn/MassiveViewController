@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		747B94F82252DD47008668EA /* UserList.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 747B94F62252DD47008668EA /* UserList.storyboard */; };
 		D63B4ED62245E79800E32D6F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B4ED52245E79800E32D6F /* AppDelegate.swift */; };
 		D63B4ED82245E79800E32D6F /* UserListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B4ED72245E79800E32D6F /* UserListViewController.swift */; };
 		D63B4EDB2245E79800E32D6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D63B4ED92245E79800E32D6F /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		747B94F72252DD47008668EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = MassiveViewController/Business/UserList/Base.lproj/UserList.storyboard; sourceTree = "<group>"; };
 		D63B4ED22245E79800E32D6F /* MassiveViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MassiveViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D63B4ED52245E79800E32D6F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D63B4ED72245E79800E32D6F /* UserListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserListViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				D69063E3225299FF00080DFC /* API */,
 				D63B4ED52245E79800E32D6F /* AppDelegate.swift */,
 				D63B4EDC2245E79A00E32D6F /* Assets.xcassets */,
+				D63B4ED92245E79800E32D6F /* Main.storyboard */,
 				D63B4EDE2245E79A00E32D6F /* LaunchScreen.storyboard */,
 				D63B4EE12245E79A00E32D6F /* Info.plist */,
 			);
@@ -166,7 +169,7 @@
 			children = (
 				D63B4EF9224625F800E32D6F /* UserCell.swift */,
 				D63B4ED72245E79800E32D6F /* UserListViewController.swift */,
-				D63B4ED92245E79800E32D6F /* Main.storyboard */,
+				747B94F62252DD47008668EA /* UserList.storyboard */,
 			);
 			path = UserList;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 				D64D1580224EBF8000D79894 /* UserPage2.json in Resources */,
 				D63B4EDB2245E79800E32D6F /* Main.storyboard in Resources */,
 				D64D1582224EDA5500D79894 /* UserPage3.json in Resources */,
+				747B94F82252DD47008668EA /* UserList.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -305,6 +309,14 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		747B94F62252DD47008668EA /* UserList.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				747B94F72252DD47008668EA /* Base */,
+			);
+			name = UserList.storyboard;
+			sourceTree = "<group>";
+		};
 		D63B4ED92245E79800E32D6F /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
